@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--M9QttI5a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e5afadrel1xrtvwvxxqo.png)](https://khanalnischal.com.np)
 
 <h1 align="center">Hi 👋, I'm Nischal Khanal</h1>
-<h3 align="center">A passionate on Artificial Intelligence(AI)</h3>
+<h3 align="center">Passionate on Artificial Intelligence(AI)</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/futuristic-robot-artificial-intelligence-cgi-big-data-analytics-programming_31965-8010.jpg?w=826"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-420&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-420" /> </p>
