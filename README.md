@@ -1,6 +1,4 @@
-<!-- [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--M9QttI5a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e5afadrel1xrtvwvxxqo.png)](https://khanalnischal.com.np) -->
 
-<h1 align="center">Hi 👋, I'm Nischal Khanal</h1>
 <h1 align="center">Hi 👋, I'm Nischal Khanal</h1>
 <h3 align="center">A passionate Web Development | Data Science | ML</h3>
 
