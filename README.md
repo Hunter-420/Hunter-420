@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nischal Khanal</h1>
-<h3 align="center">A passionate Web Development | Data Science | ML</h3>
+<h3 align="center">A passionate Web Development | Netwok Progrmming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter-420&label=Profile%20views&color=0e75b6&style=flat" alt="hunter-420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hunter-420" alt="hunter-420" /></a> </p>
 
-- 🔭 I’m currently working on [COREQ - COMMUNITY FOR REPRISING QUALITATIVE RESEARCH](https://github.com/Hunter-420/COREQ)
+- 🔭 I’m currently working on [NHA - National Health Agency](github.com/Hunter-420/NHA-National-Health-Agency)
 
-- 🌱 I’m currently learning **React, Neural Radiance Fields(NeRF), Volume Rendering Visualizations**
+- 🌱 I’m currently learning **Network Porgramming**
 
 - 👨‍💻 All of my projects are available at [https://khanalnischal.com.np](https://khanalnischal.com.np)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **khanalnischal2075@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aKBWbuvX4hyP2oCsLYGQzsU1YZBHdUsu/view?usp=sharing](https://drive.google.com/file/d/1aKBWbuvX4hyP2oCsLYGQzsU1YZBHdUsu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vUz4GjHip_ocW6VUDdNvV06azyreRWQd/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am not funny**
 
